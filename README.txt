@@ -1,31 +1,33 @@
-Osarumwese Afolabi
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+📊 # **Data Analytics Portfolio: Power BI, SQL & Tableau**
+
+This portfolio showcases my **SQL, Power BI, and Tableau** projects, highlighting my expertise in data analysis, visualization, and business intelligence. 
+These projects demonstrate my ability to extract, clean, analyze, and visualize data to drive data-driven decision-making.
+
+	## 🛠️** Projects Included**
+### **Power BI Projects**
+* Data Cleaning & Transformation using Power Query
+
+* Pivot Tables & Charts for Dynamic Dashboard for visualization and  Reporting
+
+* Sales performance insights.
+
+* Customer Insights
+
+* Inventory Management and profitability insights
 
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+## **SQL Projects**
+* Database Querying & Optimization (PostgreSQL)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+* ETL (Extract, Transform, Load) Processes
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+* Customer,Sales Data Analysis and inventory optimization using SQL Joins, CTEs, and Window Functions
 
 
-Credits:
+## **Tableau Dashboards**
+* Interactive User Analysis and conversion rate optimization  Dashboards
 
-	Demo Images:
-		Unsplash (unsplash.com)
+* Content interaction Analysis
 
-	Icons:
-		Font Awesome (fontawesome.io)
+* A/B Testing in comparing two website version.
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
